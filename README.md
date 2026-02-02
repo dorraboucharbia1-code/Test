@@ -1,4 +1,4 @@
-# téléchargeur de fichiers (React + Flask)
+# Téléchargeur de fichiers (React + Flask)
 
 Application web permettant de lister et télécharger des fichiers depuis un dossier côté serveur, avec une UI/UX soignée (Material UI), recherche par nom et filtres (type, période, taille).
 
